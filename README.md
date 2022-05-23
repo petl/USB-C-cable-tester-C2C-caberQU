@@ -1,6 +1,8 @@
 # USB C cable tester - C2C caberQU
 Can my cable support USB 2.0/3.0/3.1/3.2, power delivery? Is a wire broken?
 
+<img src='https://github.com/petl/USB-C-cable-tester-C2C-caberQU/blob/main/photos/v1/IMG_20220225_121214.jpg' width='100%'>
+
 Tindie link: https://www.tindie.com/products/petl/usb-c-cable-tester-c2c-caberqu/
 
 #### What is it?
@@ -15,6 +17,9 @@ The C2C caberQU board applies a voltage to all pins of a cable and measures whic
 - Audio Adapter Accessory Mode
 
 See [Wikipedia](https://en.wikipedia.org/wiki/USB-C#USB-C_receptacle_pin_usage_in_different_modes) to check which pin should be connected to where. 
+
+<img src='https://github.com/petl/USB-C-cable-tester-C2C-caberQU/blob/main/photos/v1/IMG_20220225_120937.jpg' width='100%'>
+
 
 #### Why did you make it?
 
