@@ -3,9 +3,6 @@ Can my cable support USB 2.0/3.0/3.1/3.2, power delivery? Is a wire broken?
 
 <img src='https://github.com/petl/USB-C-cable-tester-C2C-caberQU/blob/main/photos/v1/IMG_20220225_121214.jpg' width='100%'>
 
-### Preorder one from Kickstarter 
-### https://www.kickstarter.com/projects/electr/c2c-caberqu-usb-c-cable-tester
-
 Tindie link: https://www.tindie.com/products/petl/usb-c-cable-tester-c2c-caberqu/
 
 #### What is it?
